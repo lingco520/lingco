@@ -11,6 +11,7 @@ package cn.lingco.queue;
 public class Consumer implements Runnable{
     WindowQueue windowQueue;
 
+
     /**
      * 保证卖票与买票同步
      * @param windowQueue
