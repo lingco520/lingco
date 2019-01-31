@@ -1,0 +1,22 @@
+server:
+  port: 2019
+spring:
+  freemarker:
+    template-loader-path: classpath:/templates/
+    cache: false
+    charset: UTF-8
+    check-template-location: true
+    content-type: text/html
+    expose-request-attributes: true
+    expose-session-attributes: true
+    suffix: .ftl
+  mvc:
+    static-path-pattern: /static/**
+
+#client_id: 751120829
+#client_sercret: 351d13e5acb2ef2ca921da9924b4c82b
+#redirect_url: http://46fcf178.ngrok.io/weibo/commitWeibo
+#base_url: https://api.weibo.com/2/
+#access_token_url: https://api.weibo.com/oauth2/access_token
+#authorize_url: https://api.weibo.com/oauth2/authorize
+#rm_url: https://rm.api.weibo.com/2/

@@ -1,0 +1,201 @@
+0    DEBUG [2019-01-29 17:16:59]  Couldn't find template in cache for "author/weibo.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+2    DEBUG [2019-01-29 17:16:59]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+3    DEBUG [2019-01-29 17:16:59]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+4    DEBUG [2019-01-29 17:16:59]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+4    DEBUG [2019-01-29 17:16:59]  Loading template for "author/weibo.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\author\\weibo.ftl"
+37   DEBUG [2019-01-29 17:16:59]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+258665 DEBUG [2019-01-29 17:21:18]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+258665 DEBUG [2019-01-29 17:21:18]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+258666 DEBUG [2019-01-29 17:21:18]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+258666 DEBUG [2019-01-29 17:21:18]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+258667 DEBUG [2019-01-29 17:21:18]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+259231 DEBUG [2019-01-29 17:21:19]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+259232 DEBUG [2019-01-29 17:21:19]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+265603 DEBUG [2019-01-29 17:21:25]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+265604 DEBUG [2019-01-29 17:21:25]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+265604 DEBUG [2019-01-29 17:21:25]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+265604 DEBUG [2019-01-29 17:21:25]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+265605 DEBUG [2019-01-29 17:21:25]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+267139 DEBUG [2019-01-29 17:21:27]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+267139 DEBUG [2019-01-29 17:21:27]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+270867 DEBUG [2019-01-29 17:21:30]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+270868 DEBUG [2019-01-29 17:21:30]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+270868 DEBUG [2019-01-29 17:21:30]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+270868 DEBUG [2019-01-29 17:21:30]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+270869 DEBUG [2019-01-29 17:21:30]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+922648 DEBUG [2019-01-29 17:32:22]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+922648 DEBUG [2019-01-29 17:32:22]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+922649 DEBUG [2019-01-29 17:32:22]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+922649 DEBUG [2019-01-29 17:32:22]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+922650 DEBUG [2019-01-29 17:32:22]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+982944 DEBUG [2019-01-29 17:33:22]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+982944 DEBUG [2019-01-29 17:33:22]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+982945 DEBUG [2019-01-29 17:33:22]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+982946 DEBUG [2019-01-29 17:33:22]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+982946 DEBUG [2019-01-29 17:33:22]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1042481 DEBUG [2019-01-29 17:34:22]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+1042481 DEBUG [2019-01-29 17:34:22]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+1042481 DEBUG [2019-01-29 17:34:22]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+1042481 DEBUG [2019-01-29 17:34:22]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+1169203 DEBUG [2019-01-29 17:36:29]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+1169203 DEBUG [2019-01-29 17:36:29]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+1169204 DEBUG [2019-01-29 17:36:29]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+1169205 DEBUG [2019-01-29 17:36:29]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+1169205 DEBUG [2019-01-29 17:36:29]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1175576 DEBUG [2019-01-29 17:36:35]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+1175576 DEBUG [2019-01-29 17:36:35]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+1175576 DEBUG [2019-01-29 17:36:35]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+1175577 DEBUG [2019-01-29 17:36:35]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+1175577 DEBUG [2019-01-29 17:36:35]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-01-30 09:46:51]  Couldn't find template in cache for "author/weibo.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+13   DEBUG [2019-01-30 09:46:51]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+14   DEBUG [2019-01-30 09:46:51]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+15   DEBUG [2019-01-30 09:46:51]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+16   DEBUG [2019-01-30 09:46:51]  Loading template for "author/weibo.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\author\\weibo.ftl"
+58   DEBUG [2019-01-30 09:46:51]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+49674 DEBUG [2019-01-30 09:47:40]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+49675 DEBUG [2019-01-30 09:47:40]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+49676 DEBUG [2019-01-30 09:47:40]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+49676 DEBUG [2019-01-30 09:47:40]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+49676 DEBUG [2019-01-30 09:47:40]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-01-30 10:39:14]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+2    DEBUG [2019-01-30 10:39:14]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+3    DEBUG [2019-01-30 10:39:14]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+3    DEBUG [2019-01-30 10:39:14]  TemplateLoader.findTemplateSource("index.ftl"): Found
+4    DEBUG [2019-01-30 10:39:14]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\index.ftl"
+24   DEBUG [2019-01-30 10:39:14]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3143 DEBUG [2019-01-30 10:39:17]  Couldn't find template in cache for "author/weibo.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3144 DEBUG [2019-01-30 10:39:17]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+3144 DEBUG [2019-01-30 10:39:17]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+3144 DEBUG [2019-01-30 10:39:17]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+3145 DEBUG [2019-01-30 10:39:17]  Loading template for "author/weibo.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\author\\weibo.ftl"
+3146 DEBUG [2019-01-30 10:39:17]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+118924 DEBUG [2019-01-30 10:41:13]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+118924 DEBUG [2019-01-30 10:41:13]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+118925 DEBUG [2019-01-30 10:41:13]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+118925 DEBUG [2019-01-30 10:41:13]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+118926 DEBUG [2019-01-30 10:41:13]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-01-30 10:46:05]  Couldn't find template in cache for "author/weibo.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2019-01-30 10:46:05]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+4    DEBUG [2019-01-30 10:46:05]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+5    DEBUG [2019-01-30 10:46:05]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+5    DEBUG [2019-01-30 10:46:05]  Loading template for "author/weibo.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\author\\weibo.ftl"
+26   DEBUG [2019-01-30 10:46:05]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+971792 DEBUG [2019-01-30 11:02:17]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+971795 DEBUG [2019-01-30 11:02:17]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+971797 DEBUG [2019-01-30 11:02:17]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+971798 DEBUG [2019-01-30 11:02:17]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+971799 DEBUG [2019-01-30 11:02:17]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+986061 DEBUG [2019-01-30 11:02:31]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+986061 DEBUG [2019-01-30 11:02:31]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+986062 DEBUG [2019-01-30 11:02:31]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+986062 DEBUG [2019-01-30 11:02:31]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+986063 DEBUG [2019-01-30 11:02:31]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-01-30 11:17:14]  Couldn't find template in cache for "author/weibo.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+2    DEBUG [2019-01-30 11:17:14]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+2    DEBUG [2019-01-30 11:17:14]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+3    DEBUG [2019-01-30 11:17:14]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+4    DEBUG [2019-01-30 11:17:14]  Loading template for "author/weibo.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\author\\weibo.ftl"
+21   DEBUG [2019-01-30 11:17:14]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+20843 DEBUG [2019-01-30 11:17:35]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+20844 DEBUG [2019-01-30 11:17:35]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+20844 DEBUG [2019-01-30 11:17:35]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+20845 DEBUG [2019-01-30 11:17:35]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+20846 DEBUG [2019-01-30 11:17:35]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+38729 DEBUG [2019-01-30 11:17:53]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+38730 DEBUG [2019-01-30 11:17:53]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+38730 DEBUG [2019-01-30 11:17:53]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+38731 DEBUG [2019-01-30 11:17:53]  TemplateLoader.findTemplateSource("index.ftl"): Found
+38731 DEBUG [2019-01-30 11:17:53]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\index.ftl"
+38733 DEBUG [2019-01-30 11:17:53]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+248913 DEBUG [2019-01-30 11:21:23]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+248913 DEBUG [2019-01-30 11:21:23]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+248915 DEBUG [2019-01-30 11:21:23]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+248915 DEBUG [2019-01-30 11:21:23]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+248916 DEBUG [2019-01-30 11:21:23]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+456303 DEBUG [2019-01-30 11:24:50]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+456304 DEBUG [2019-01-30 11:24:50]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+456305 DEBUG [2019-01-30 11:24:50]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+456305 DEBUG [2019-01-30 11:24:50]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+456306 DEBUG [2019-01-30 11:24:50]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+460886 DEBUG [2019-01-30 11:24:55]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+460887 DEBUG [2019-01-30 11:24:55]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+462877 DEBUG [2019-01-30 11:24:57]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+462877 DEBUG [2019-01-30 11:24:57]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+462878 DEBUG [2019-01-30 11:24:57]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+462878 DEBUG [2019-01-30 11:24:57]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+462879 DEBUG [2019-01-30 11:24:57]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1    DEBUG [2019-01-30 11:33:51]  Couldn't find template in cache for "author/weibo.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+2    DEBUG [2019-01-30 11:33:51]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+3    DEBUG [2019-01-30 11:33:51]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+4    DEBUG [2019-01-30 11:33:51]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+4    DEBUG [2019-01-30 11:33:51]  Loading template for "author/weibo.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\author\\weibo.ftl"
+23   DEBUG [2019-01-30 11:33:51]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1077392 DEBUG [2019-01-30 11:51:48]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+1077393 DEBUG [2019-01-30 11:51:48]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+1077394 DEBUG [2019-01-30 11:51:48]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+1077394 DEBUG [2019-01-30 11:51:48]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+1077395 DEBUG [2019-01-30 11:51:48]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1100390 DEBUG [2019-01-30 11:52:11]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+1100390 DEBUG [2019-01-30 11:52:11]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+1100391 DEBUG [2019-01-30 11:52:11]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+1100392 DEBUG [2019-01-30 11:52:11]  TemplateLoader.findTemplateSource("index.ftl"): Found
+1100393 DEBUG [2019-01-30 11:52:11]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\index.ftl"
+1100395 DEBUG [2019-01-30 11:52:11]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1138273 DEBUG [2019-01-30 11:52:49]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+1138273 DEBUG [2019-01-30 11:52:49]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+1138274 DEBUG [2019-01-30 11:52:49]  TemplateLoader.findTemplateSource("index.ftl"): Found
+1138274 DEBUG [2019-01-30 11:52:49]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\index.ftl hasn't changed.
+1138274 DEBUG [2019-01-30 11:52:49]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1144820 DEBUG [2019-01-30 11:52:56]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+1144821 DEBUG [2019-01-30 11:52:56]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+1144821 DEBUG [2019-01-30 11:52:56]  TemplateLoader.findTemplateSource("index.ftl"): Found
+1144821 DEBUG [2019-01-30 11:52:56]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\index.ftl hasn't changed.
+1144822 DEBUG [2019-01-30 11:52:56]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1156555 DEBUG [2019-01-30 11:53:08]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+1156555 DEBUG [2019-01-30 11:53:08]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+1156555 DEBUG [2019-01-30 11:53:08]  TemplateLoader.findTemplateSource("index.ftl"): Found
+1156556 DEBUG [2019-01-30 11:53:08]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\index.ftl hasn't changed.
+1156556 DEBUG [2019-01-30 11:53:08]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1161753 DEBUG [2019-01-30 11:53:13]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+1161753 DEBUG [2019-01-30 11:53:13]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+1161753 DEBUG [2019-01-30 11:53:13]  TemplateLoader.findTemplateSource("index.ftl"): Found
+1161753 DEBUG [2019-01-30 11:53:13]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\index.ftl hasn't changed.
+1161754 DEBUG [2019-01-30 11:53:13]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-01-30 13:38:17]  Request:
+0    DEBUG [2019-01-30 13:38:17]  POSThttps://api.weibo.com/oauth2/access_token
+1810 DEBUG [2019-01-30 13:38:19]  Response:
+1810 DEBUG [2019-01-30 13:38:19]  https StatusCode:400
+1810 DEBUG [2019-01-30 13:38:19]  Server:nginx/1.6.1
+1811 DEBUG [2019-01-30 13:38:19]  Date:Wed, 30 Jan 2019 05:38:23 GMT
+1811 DEBUG [2019-01-30 13:38:19]  Transfer-Encoding:chunked
+1811 DEBUG [2019-01-30 13:38:19]  Connection:keep-alive
+1811 DEBUG [2019-01-30 13:38:19]  Pragma:No-cache
+1811 DEBUG [2019-01-30 13:38:19]  Cache-Control:no-cache
+1811 DEBUG [2019-01-30 13:38:19]  Expires:Thu, 01 Jan 1970 00:00:00 GMT
+1826 DEBUG [2019-01-30 13:38:19]  {"error":"invalid_request","error_code":21323,"request":"/oauth2/access_token","error_uri":"/oauth2/access_token","error_description":"miss client id or secret"}
+
+1851 DEBUG [2019-01-30 13:38:19]  Couldn't find template in cache for "author/weibo.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+1853 DEBUG [2019-01-30 13:38:19]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+1854 DEBUG [2019-01-30 13:38:19]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+1855 DEBUG [2019-01-30 13:38:19]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+1856 DEBUG [2019-01-30 13:38:19]  Loading template for "author/weibo.ftl"("zh_CN", UTF-8, parsed) from "E:\\mystudy\\lingco\\target\\classes\\templates\\author\\weibo.ftl"
+1875 DEBUG [2019-01-30 13:38:19]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+28319 DEBUG [2019-01-30 13:38:45]  Request:
+28320 DEBUG [2019-01-30 13:38:45]  POSThttps://api.weibo.com/oauth2/access_token
+28558 DEBUG [2019-01-30 13:38:45]  Response:
+28558 DEBUG [2019-01-30 13:38:45]  https StatusCode:400
+28559 DEBUG [2019-01-30 13:38:45]  Server:nginx/1.6.1
+28559 DEBUG [2019-01-30 13:38:45]  Date:Wed, 30 Jan 2019 05:38:50 GMT
+28559 DEBUG [2019-01-30 13:38:45]  Transfer-Encoding:chunked
+28559 DEBUG [2019-01-30 13:38:45]  Connection:keep-alive
+28559 DEBUG [2019-01-30 13:38:45]  Pragma:No-cache
+28559 DEBUG [2019-01-30 13:38:45]  Cache-Control:no-cache
+28559 DEBUG [2019-01-30 13:38:45]  Expires:Thu, 01 Jan 1970 00:00:00 GMT
+28560 DEBUG [2019-01-30 13:38:45]  {"error":"invalid_request","error_code":21323,"request":"/oauth2/access_token","error_uri":"/oauth2/access_token","error_description":"miss client id or secret"}
+
+28564 DEBUG [2019-01-30 13:38:45]  TemplateLoader.findTemplateSource("author/weibo_zh_CN.ftl"): Not found
+28565 DEBUG [2019-01-30 13:38:45]  TemplateLoader.findTemplateSource("author/weibo_zh.ftl"): Not found
+28565 DEBUG [2019-01-30 13:38:45]  TemplateLoader.findTemplateSource("author/weibo.ftl"): Found
+28565 DEBUG [2019-01-30 13:38:45]  "author/weibo.ftl"("zh_CN", UTF-8, parsed): using cached since E:\mystudy\lingco\target\classes\templates\author\weibo.ftl hasn't changed.
+28566 DEBUG [2019-01-30 13:38:45]  "author/weibo.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
